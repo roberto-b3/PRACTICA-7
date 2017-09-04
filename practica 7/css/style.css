@@ -1,0 +1,70 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+background-color:#C7943F;
+font-family:segoe UI Light, calibri;
+font-size:12px;
+}
+h1{
+	font-family: calibri, segoe UI Light;
+	font-size:16px;
+	color:#D15750;
+}
+table{
+	width:100%;
+}
+td{
+	vertical-align:top;
+}
+
+ul{
+	list-style: none;
+	margin-top:0px;
+	
+}
+
+ul li{
+	font-family:calibri, georgian,serif;
+	font-size:18px;
+}
+
+ul li a{
+	display:block;
+	background-color:#986;
+	color: green;
+	height:30px;
+	width:150px;
+	padding-left:10px;
+}
+ul li a:hover{
+	-moz-transform:rotate(-5deg);
+	-moz-box-shadow:10px 10px 20px 20px green;
+	-webkit-transform:rotate(-5deg);
+	-webkit-box-shadow:10px 10px 20px 20px green;
+	transform:rotate(4deg);
+	box-shadow:10px 10px 20px 20px green;
+	margin-left:10px;
+}
+table td div{
+	width:500px;
+	height:220px;
+	background-color:#E96631;
+	border-radius:15px;
+	margin:10px;
+}
+.encabezado
+{
+	
+	width:1024px;
+	height:100px;
+	background-color:#31E977;
+}
+.piepagina
+{
+	
+	width:1024px;
+	height:70px;
+	background-color:31C5E9;
+}
